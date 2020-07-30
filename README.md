@@ -10,6 +10,9 @@
 
 Ну и затем в принципе проверять запросы согласно ТЗ.
 
+Ссылка на ТЗ:
+https://docs.google.com/document/d/1sHrXfMNq5swhLaQOPWAsS1ClOIW1TWVhVelyQicm4IU/edit#heading=h.ajuzpgp80gkx
+
 Если не захотите разворачивать, можно глянуть тут: http://testwork.office5c.beget.tech/
 
 Удачи!
